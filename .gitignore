@@ -1,0 +1,19 @@
+# Build and distribution output
+/build/
+/dist/
+/tests/bin/
+*.exe
+*.pdb
+
+# Runtime diagnostics and local planning files
+notepad-pin.status.txt
+notepad-pin.log
+task_plan.md
+findings.md
+progress.md
+/publish/
+
+# Editor settings
+.vs/
+.vscode/
+*.user
